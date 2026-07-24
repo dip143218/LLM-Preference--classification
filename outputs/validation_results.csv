@@ -1,0 +1,8 @@
+model,validation_log_loss,accuracy
+uniform_baseline,1.09861,
+class_prior_baseline,1.09662,
+numeric_logistic_regression,1.07485,0.43921
+combined_tfidf,1.10997,0.38640
+position_aware_tfidf,1.08559,0.44086
+numeric_tfidf_blend,1.04867,0.46
+blend_with_swap_averaging,1.04209,0.46
